@@ -1,0 +1,21 @@
+#bienvenida {
+     color:aquamarine;
+     font size: 25px;
+     font family:Verdana;
+}
+p {
+    color:blueviolet;
+    font-family:'Nova Square', sans-serif;
+    font size: 20px;
+}
+
+.bordes-uno {
+    border-style: solid dashed dotted;
+    border-width: 8px;
+    border-color: blue;
+}
+.bordes {
+    border-radius: 20px;
+    border-color: red;
+}
+
