@@ -1,3 +1,14 @@
+* {
+    background-color: #50c7c5;
+}
+
+h1 {
+    font-family: 'Single Day', cursive;
+    font-size: 80px;
+    color:crimson;
+    padding: 10px;
+}
+
 #bienvenida {
      color:aquamarine;
      font size: 25px;
@@ -22,6 +33,19 @@ p {
   font-family: 'Nova Square', sans-serif;
   font-size: 80px;
   color:#8F3A59;
+}
+.balon {
+    border: 15px;
+    border-style: dashed solid;
+    border-color: #8F3A59;
+    border-width: 5px;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+    margin: 5px 5px 5px 5px;
+}
+.betis {
+    font-size: 35px;
+    color:chocolate;
 }
 
 
