@@ -14,6 +14,16 @@ h1 {
      font size: 25px;
      font family:Verdana;
 }
+.vinotinto {
+    background-image: url(bandera\ de\ Venezuela.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    font-family: 'Nova Square', sans-serif;
+    font-size: 55px;
+    color:#8F3A59;
+}   
 p {
     color:blueviolet;
     font-family:'Nova Square', sans-serif;
@@ -29,11 +39,6 @@ p {
     border-radius: 20px;
     border-color: red;
 }
-.vamos {
-  font-family: 'Nova Square', sans-serif;
-  font-size: 55px;
-  color:#8F3A59;
-}
 .balon {
     border: 15px;
     border-style: dashed solid;
@@ -47,6 +52,12 @@ p {
     font-size: 35px;
     color:chocolate;
 }
+h3 {
+    color:chocolate;
+    font-family:'Nova Square', sans-serif;
+    font-size: 30px;
+}
+
 
 
 
