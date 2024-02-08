@@ -47,6 +47,7 @@ p {
     border-radius: 5px;
     padding: 10px 10px 10px 10px;
     margin: 5px 5px 5px 5px;
+    cursor:pointer;
 }
 .betis {
     font-size: 35px;
@@ -57,7 +58,9 @@ h3 {
     font-family:'Nova Square', sans-serif;
     font-size: 30px;
 }
-
+.cursor {
+    cursor:pointer;
+}
 
 
 
