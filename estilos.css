@@ -1,11 +1,14 @@
 * {
     background-color: #50c7c5;
-    
+    margin: 0;
 }
 
 .ul {
     list-style: none;
-    display:inline-flex;
+    margin:0;
+    padding:0;
+    background-color: white;
+    display: flex;   
 }
 a {
     text-decoration: none;
@@ -14,26 +17,30 @@ a {
 .color {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 15px;
-    background-color: #8F3A59;
-    color: white;
-    padding-left: .5rem;
-    padding-right: .5rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-       
+    background-color:burlywood
+      
 }
 .anaranjado {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 15px;
     background-color: coral;
-    color:white;
-    padding-left: .5rem;
-    padding-right: .5rem;
-    padding-top: 1rem;   
-    padding-bottom: 1rem;
 }
 
-
+   
+.formato {
+    border: dashed 1px;
+    padding: .3rem .7rem;
+    background-color: orange;
+    
+}
+.color:hover {
+    background-color:black;
+    color:blue;
+}
+.anaranjado:hover {
+    background-color:black;
+    color:blue;
+}
 h1 {
     font-family: 'Single Day', cursive;
     font-size: 80px;
@@ -104,7 +111,9 @@ h3 {
     font-size: 20px;
     color:darkgoldenrod;
     text-align: left;
+    list-style: none;
 }
+
 
 
 
