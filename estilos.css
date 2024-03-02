@@ -113,7 +113,20 @@ h3 {
     text-align: left;
     list-style: none;
 }
-
+.boton {
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: #8F3A59;
+    color:cornsilk;
+    cursor: pointer;
+    transition-duration: 0.7s;
+    margin: 15px;
+    padding: 10px 20px;
+}
+button:hover {
+    background-color:aqua;
+    color:chocolate; 
+}
 
 
 
