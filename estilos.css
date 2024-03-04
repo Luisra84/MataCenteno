@@ -1,6 +1,7 @@
-* {
-    background-color: #50c7c5;
+body {
+    background-color:aquamarine;
     margin: 0;
+    padding: 0;
 }
 
 .ul {
@@ -113,7 +114,7 @@ h3 {
     text-align: left;
     list-style: none;
 }
-.boton {
+button {
     font-size: 20px;
     border-radius: 20px;
     background-color: #8F3A59;
@@ -126,6 +127,24 @@ h3 {
 button:hover {
     background-color:aqua;
     color:chocolate; 
+}
+#color {
+    color:black;
+    font-weight: bold;
+    background-color: white;
+
+
+}
+#contenedor {
+    background-color: white;
+    margin-right: 450px;
+    margin-left: 450px;
+    padding: 15px;
+    border: 2px solid black;
+    display:block;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
 }
 
 
