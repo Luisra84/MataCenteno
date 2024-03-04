@@ -137,9 +137,10 @@ button:hover {
 }
 #contenedor {
     background-color: white;
-    margin-right: 450px;
-    margin-left: 450px;
+    height: 230px;
+    width: 330px;
     padding: 15px;
+    margin-left: 15px;
     border: 2px solid black;
     display:block;
     flex-direction: column;
