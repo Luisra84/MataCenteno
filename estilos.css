@@ -147,18 +147,6 @@ button:hover {
     text-align: center;
     justify-content: center;
 }
-.fila-1 {
-    background-color: grey;
-    font-size: 40px;
-}
-.fila-2 {
-    background-color: blue;
-    font-size: 30px;
-}
-.fila-3 {
-    background-color: brown;
-    font-size: 30px;
-}
 .contenedor-2 {
     width: 50%;
     height:auto;
